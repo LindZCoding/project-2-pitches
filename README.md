@@ -6,7 +6,7 @@
    
 3. MyAnimeList API
    
-4. ERD: ![ERDanime](https://user-images.githubusercontent.com/91760331/141506240-f7b6b43b-ba1a-4556-8ac6-6e5b5256a75e.png)
+4. ERD: ![ERDfinishedAnime](https://user-images.githubusercontent.com/91760331/141527822-bec38950-7e02-4e60-bcfb-1ec4d455ce2d.png)
     
 5. Example of how to call/invoke your API, and a description of what data comes back. 
    app.get('/:location', (req, res) => {
@@ -20,7 +20,9 @@ Will have it call back anime titles, description, icons, etc.
 7. MVP goals (x3-5)
    * Have users be able to create their profile with their unique username and password
    * Users will be able to view a list of anime's
+   * Users will be able to view a list of characters
    * Users will be able to click on an anime title that will then display the name, description, icon and have a button to add that specfic anime to their favorites
+   * Users will be able to favorite characters
    * Users can view their own and other users profiles to see a list of their favorite anime's
    
 8. Stretch goals (x2-5)
